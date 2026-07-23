@@ -1,24 +1,26 @@
 
-# ⌛ Журнал процесса
+# ⌛ Process Journal
 
-Здесь я буду записывать свои шаги и их дату для реализации проекта по информатике.
+Here I will record my steps and their dates for the computer science project implementation.
 
-## 🍂 Ноябрь
-24 ноября — знакомство с **[Git](https://git-scm.com/)** , установка  
-26 ноября — подключение локального репозитория к [**Github**](https://github.com/), создание файла README и журнала процесса  
-28 ноября — согласование идеи проекта
+## 🍂 November
+November 24 — introduction to **[Git](https://git-scm.com)**, installation  
+November 26 — connecting the local repository to [**GitHub**](https://github.com), creating the README file and the process log  
+November 28 — project idea approval
 
-## ☃️ Декабрь
-1 декабря — создание первой маски в виде собаки с языком, когда рот открыт    
-2 декабря — изменение размера маски в зависимости от расстояния до камеры  
-4 декабря — создание маски детектива, если прищурить глаза  
-5 декабря — изменение способа проверки прищуривания глаз (относительно глаз)  
-7 декабря — добавление новогодней маски   
-8 декабря — создание маски "Лазеры из глаз", проверка на сохрание положения лица на протяжении некоторого времени    
-13 декабря — добавлена проверка на наклон головы, добавлено переключение между главным меню и приложением  
-14 декабря — добавлена функция скриншота при нажатии клавиши "S"  
-18 декабря — добавлен туториал, отмеченный в правом верхнем углу буквой "i"  
-22 декабря — созданы видео и презентация для защиты
+## ☃️ December
+December 1 — creating the first mask (a dog with a tongue when the mouth is open)    
+December 2 — resizing the mask based on the distance to the camera  
+December 4 — creating a detective mask when squinting the eyes  
+December 5 — changing the eye-squint check method (relative to the eyes)  
+December 7 — adding a New Year's mask   
+December 8 — creating a "Laser Eyes" mask, checking for head position retention over a period of time    
+December 13 — added head tilt check, added switching between the main menu and the application  
+December 14 — added a screenshot function by pressing the "S" key  
+December 18 — added a tutorial, marked with the letter "i" in the upper right corner  
+December 22 — created a video and a presentation for the project defense
   
-![Марк Цукерберг](https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_694417102b8b7409c536d6ab_694417a46b0bcb72072e1a4a/scale_2400)  
-![Прищуренные глаза](https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_694417102b8b7409c536d6ab_694417a4d92cc2488911668a/scale_2400)  
+![Mark Zuckerberg](https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_694417102b8b7409c536d6ab_694417a46b0bcb72072e1a4a/scale_2400)  
+![Squinted eyes](https://avatars.dzeninfra.ru/get-zen_brief/271828/pub_694417102b8b7409c536d6ab_694417a4d92cc2488911668a/scale_2400)
+
+### 👨🏻‍🏫 Project grade: 14/16 (87.5% accuracy)
