@@ -1,19 +1,20 @@
 
   
-# 🕹️ Виртуальная маска по эмоциям и мимике лица    
-    
-Проект **AnnChat** использует библиотеку **MediaPipe** для анализа мимики лица в реальном времени и наложения виртуальной маски поверх лица на видео. Маска адаптируется под выражение лица пользователя.
-    
-## 📌 Возможности    
- - Обнаружение лица с помощью **MediaPipe Face Mesh** - Анализ ключевых точек мимики (рот, глаза, лоб и т.д.)    
-- Оценка выражений на основе геометрии лица (открытый рот, прищуренные глаза и др.)    
-- Наложение динамической виртуальной маски, реагирующей на выражение лица    
-- Поддержка видеопотока с веб-камеры    
-- Создание скриншотов лица с маской при нажатии клавиши "S"
-  
-## 🔥Рекомендации!  
-  
- 1. Поставьте камеру на *уровне лица* 🌝  
- 2. Снимите *очки* и *головные уборы* 👓  
- 3. Держите голову *прямо* 🥷🏻  
- 4. Не отходите от камеры дальше, чем на *1 метр* 📏
+# 🕹️ Virtual Mask Based on Emotions and Facial Expressions
+
+The **AnnChat** project uses the **MediaPipe** library to analyze facial expressions in real time and overlay a virtual mask on top of the face in a video stream. The mask adapts to the user's facial expression.
+
+## 📌 Features
+- Face detection using **MediaPipe Face Mesh**
+- Analysis of key facial expression points (mouth, eyes, forehead, etc.)
+- Estimation of expressions based on facial geometry (open mouth, squinted eyes, etc.)
+- Overlay of a dynamic virtual mask that reacts to facial expressions
+- Support for webcam video stream
+- Taking screenshots of the face with the mask by pressing the "S" key
+
+## 🔥 Recommendations!
+
+1. Place the camera at *eye level* 🌝
+2. Remove *glasses* and *hats* 👓
+3. Keep your head *straight* 🥷🏻
+4. Do not move further than *1 meter* away from the camera 📏
